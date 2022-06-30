@@ -9,12 +9,7 @@ while(1):
 			return True
 		except:
 			return False
-	print("وصل نیست")
+	print("nn")
 	if connect() == True:
 		break
-
-#کد زیر پس از وصل شدن اینترنت اجرا خواهد شد و هرگز زمانی که اینترنت وصل نیست پردازش نخواهد شد 
-
-#code: 
-
 print("وصل شد ")
