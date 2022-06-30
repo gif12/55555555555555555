@@ -1,15 +1,2 @@
-import urllib.request
-from colorama import Fore
-from time import sleep
-while(1):
-	sleep(1)
-	def connect():
-		try:
-			urllib.request.urlopen('http://google.com') 
-			return True
-		except:
-			return False
-	print("nn")
-	if connect() == True:
-		break
 print("y")
+
