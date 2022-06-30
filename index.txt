@@ -12,4 +12,4 @@ while(1):
 	print("nn")
 	if connect() == True:
 		break
-print("وصل شد ")
+print("y")
